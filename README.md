@@ -22,4 +22,4 @@ I have created a reusable XCFramework library and a fully functional test applic
 
 I have utilized Swift, leveraging the modern language features and best practices for each platform.
 
-The code is well-documented, clean, and organized, following standard conventions for both iOS development.
+The code is well-documented, clean, and organized, following standard conventions for iOS development.
